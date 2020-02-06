@@ -1,0 +1,35 @@
+.resume{
+
+}
+.information{
+
+}
+.simple{
+
+}
+
+.detailed{
+padding-bottom: 10px;
+}
+.detailed h3{
+    margin-bottom: 0px;
+}
+.detailed p{
+
+    margin-top: 0px;
+    padding-bottom: 10px;
+}
+.xinxi {
+    padding-bottom: 10px;
+}
+.xinxi h3{
+    padding-right: 10px;
+    display: inline;
+}
+.xinxi p{
+    display: inline;
+    padding-right: 25px;
+}
+.xinxi a{
+    padding-right: 25px;
+}
