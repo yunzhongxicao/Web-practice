@@ -1,0 +1,47 @@
+.bigbox{
+    width: 800px;
+
+
+}
+.rightbox{
+    float: left;
+    width: 700px;
+}
+.clear{
+    clear: both;
+}
+.resume{
+    background-color: cornflowerblue;
+    color: white;
+    height: 894px;
+    width: 100px;
+    float: left;
+    text-align: center;
+}
+
+.information{
+    margin-left: 20px;
+    float: left;
+    width: 700px;
+    
+}
+.simple{
+
+}
+.detailed{
+
+}
+.xinxi{
+
+}
+.xinxi h3{
+    display: inline;
+    padding-right: 10px;
+}
+.xinxi p{
+    display: inline;
+    padding-right: 25px;
+}
+.xinxi a{
+    padding-right: 25px;
+}
