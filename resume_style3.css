@@ -1,0 +1,75 @@
+.bigbox{
+    width: 1500px;
+}
+
+.rightbox{
+    width: 1500px;
+}
+.clear{
+    clear: both;
+}
+.resume{
+    width: 1500px;
+    height: 80px;
+    color: white;
+    background-color: #6c6c6c;
+    text-indent: 20px;
+    line-height: 80px;
+
+
+
+}
+.information{
+    border:1px solid #acacac;
+    width:1498px;
+    height: 120px;
+    margin-bottom: 2px;
+
+
+}
+.simple{
+    height: 120px;
+    width: 150px;
+    text-align: center;
+    line-height: 80px;
+    background-color:#acacac ;
+    float: left;
+
+}
+.detailed{
+    background-color: white;
+    height: 110px;
+    width: 1330px;
+    float: right;
+
+
+}
+.detailed h3{
+    display: inline-block;
+    padding-top: 5px;
+
+
+}
+.detailed p{
+    display: inline;
+
+}
+.xinxi{
+    background-color: white;
+    height: 110px;
+    width: 1330px;
+    float: right;
+}
+.xinxi h3{
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 5px;
+
+}
+.xinxi p{
+    display: inline;
+    padding-right: 25px;
+}
+.xinxi a{
+    padding-right: 25px;
+}
