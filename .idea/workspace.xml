@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1e06e1-00b3-40df-b64d-57e957b1ee2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resume_style3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexbox 布局练习/flex 嵌套.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexbox 布局练习/flex-align0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexbox 布局练习/flexbox弹性盒子0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexbox 布局练习/flexbox弹性盒子1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -24,6 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T0lLRs2T3eeDBaSN17P06DBFoT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -79,7 +84,8 @@
       <workItem from="1580870575159" duration="3202000" />
       <workItem from="1580955314316" duration="13757000" />
       <workItem from="1580976538541" duration="14381000" />
-      <workItem from="1581053153267" duration="6323000" />
+      <workItem from="1581053153267" duration="14310000" />
+      <workItem from="1581129149330" duration="3294000" />
     </task>
     <servers />
   </component>
