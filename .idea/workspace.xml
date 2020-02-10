@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1e06e1-00b3-40df-b64d-57e957b1ee2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/分栏布局练习/三栏布局_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/分栏布局练习/三栏布局_float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/分栏布局练习/三栏布局_position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ife/ife任务图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ife/ife设计.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,7 +84,8 @@
       <workItem from="1580955314316" duration="13757000" />
       <workItem from="1580976538541" duration="14381000" />
       <workItem from="1581053153267" duration="14310000" />
-      <workItem from="1581129149330" duration="13657000" />
+      <workItem from="1581129149330" duration="14361000" />
+      <workItem from="1581218445265" duration="23745000" />
     </task>
     <servers />
   </component>

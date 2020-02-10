@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            margin: 0px;
+        }
+        header{
+            width: 100%;
+            height: 50px;
+            background-color: #6c6c6c;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+
+        }
+        .head_logo{
+            width: 960px;
+            height: 50px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .logo{
+            height: 50px;
+            line-height: 50px;
+        }
+        .logo h2{
+            margin: 0px;
+        }
+        .daohang{
+            height: 50px;
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-end;
+
+        }
+        button{
+            margin-top: 2px;
+            margin-left: 10px;
+
+        }
+        .banner{
+            height: 150px;
+            width: 100%;
+            background-color: #3bac14;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+        .lunxian_box{
+            width: 960px;
+            display: flex;
+            align-items: flex-end;
+            justify-content: flex-end;
+            height: 130px;
+        }
+        .lunxian1,.lunxian2{
+            width: 20px;
+            border: 1px solid;
+            border-color: #a1aca7;
+            padding-bottom: 2px;
+            color: black;
+            margin-left: 5px;
+
+            position: relative;
+
+        }
+        .lunxian1 p, .lunxian2 p{
+
+            position: absolute;
+            bottom: 0;
+            left: 5px;
+            margin: 0;
+
+        }
+        .lunxian1{
+            background-color: #8fcf8e;
+            height: 20px;
+
+        }
+        .lunxian2{
+            background-color: white;
+            height: 30px;
+        }
+
+        .third{
+            height: 70px;
+            width: 100%;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+            border-bottom: 1px solid #a2aca8;
+
+        }
+        .zhudaohang_box{
+            width: 960px;
+            display: flex;
+            align-items:flex-end;
+            justify-content: flex-start;
+
+        }
+        button.click{
+            background-color: white;
+            border-color: #a2aca8;
+            border-width: 0.5px;
+            margin: 0 0 0 10px;
+            height: 40px;
+            width: 70px;
+            border-radius: 12px;
+
+        }
+        button.noclick{
+            background-color: #a2aca8;
+            border-color: #a2aca8;
+            border-width: 0.5px;
+            margin:0 0 0 10px;
+            height: 40px;
+            width: 70px;
+            border-radius: 12px;
+        }
+        .content{
+            width: 100%;
+            height: 550px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+        .comtent_box{
+            width: 960px;
+            height: 550px;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: space-between;
+
+        }
+        .hezi{
+            padding: 80px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border:1px solid black;
+        }
+        .wenzi{
+
+        }
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="head_logo">
+            <div class="logo">
+                <h2>Logo</h2>
+            </div>
+            <div class="daohang">
+                <button><a href="https://github.com/">Github</a></button>
+                <button><a href="https://github.com/">Reojster</a></button>
+                <button><a href="https://github.com/">Login</a></button>
+            </div>
+        </div>
+    </header>
+
+    <div class="banner">
+        <div class="lunxian_box">
+            <div class="lunxian1"><p>1</p></div>
+            <div class="lunxian2"><p>2</p></div>
+            <div class="lunxian1"><p>3</p></div>
+            <div class="lunxian1"><p>4</p></div>
+        </div>
+
+    </div>
+
+    <div class="third">
+        <div class="zhudaohang_box">
+            <button class="click">HOME</button>
+            <button class="noclick">PROFILE</button>
+            <button class="noclick">ABOUT</button>
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="comtent_box">
+            <div class="hezi">
+                <div class="wenzi">Content1</div>
+            </div>
+            <div class="hezi">
+                <div class="wenzi">MaybeContent2</div>
+            </div>
+            <div class="hezi">
+                <div class="wenzi">MayContent3</div>
+            </div>
+            <div class="hezi">
+                <div class="wenzi">MaybeContent4</div>
+            </div>
+            <div class="hezi">
+                <div class="wenzi">MaybeContent5</div>
+            </div>
+            <div class="hezi">
+                <div class="wenzi">MaybeContent6</div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+</body>
+</html>
