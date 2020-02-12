@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1e06e1-00b3-40df-b64d-57e957b1ee2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ife/ife任务图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ife/ife设计.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/css样式/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Check Icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Facebook Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Google Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Iphone Icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/LinkedIn Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Mail Icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Map Icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Pencil Icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Phone Icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Pinterest Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Portland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Settings Icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Singleton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Tumbler Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Twitter Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/图片/Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/图片/Background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计图练习/设计图源代码.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -86,6 +113,8 @@
       <workItem from="1581053153267" duration="14310000" />
       <workItem from="1581129149330" duration="14361000" />
       <workItem from="1581218445265" duration="23745000" />
+      <workItem from="1581311013347" duration="39658000" />
+      <workItem from="1581477903329" duration="1615000" />
     </task>
     <servers />
   </component>
