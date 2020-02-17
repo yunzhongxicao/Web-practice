@@ -2,36 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1e06e1-00b3-40df-b64d-57e957b1ee2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/设计图练习/css样式/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Check Icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Facebook Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Google Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Iphone Icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/LinkedIn Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Mail Icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Map Icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Pencil Icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Phone Icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Photo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Pinterest Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Portland.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Settings Icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Singleton.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Tumbler Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Twitter Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/Userpic 4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/图片/Background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/图片/Background1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计图练习/设计图源代码.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hover 练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/js_practice1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/js_practice2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/九九乘法表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/二进制转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/猜数字游戏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/输入名字练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海报练习/12_15.psd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/errors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/errors.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,8 +55,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.简历.html">
+  <component name="RunManager" selected="JavaScript Debug.js_practice2.html">
     <configuration name="简历.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML practice/简历.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="js_practice2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML practice/javaScript/js_practice2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="practice1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML practice/practice1.html" useBuiltInWebServerPort="true">
@@ -83,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.js_practice2.html" />
         <item itemvalue="JavaScript Debug.简历.html" />
         <item itemvalue="JavaScript Debug.practice1.html" />
       </list>
@@ -115,6 +100,12 @@
       <workItem from="1581218445265" duration="23745000" />
       <workItem from="1581311013347" duration="39658000" />
       <workItem from="1581477903329" duration="1615000" />
+      <workItem from="1581501793782" duration="2410000" />
+      <workItem from="1581565796133" duration="18528000" />
+      <workItem from="1581657887259" duration="6492000" />
+      <workItem from="1581761258948" duration="10924000" />
+      <workItem from="1581857115840" duration="7163000" />
+      <workItem from="1581912718539" duration="3708000" />
     </task>
     <servers />
   </component>

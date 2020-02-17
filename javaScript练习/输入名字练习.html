@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        p {
+            font-family: sans-serif, '黑体';
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 200, 0.6);
+            background: rgba(0, 0, 200, 0.3);
+            color: rgba(0, 0, 200, 0.6);
+            box-shadow: 1px 1px 2px rgba(0, 0, 200, 0.4);
+            border-radius: 10px;
+            padding: 3px 10px;
+            display: inline-block;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <p>玩家1：小明</p>
+    <script>
+        //querySelector 用于获取对应标签的第一个元素
+        const para = document.querySelector('p');
+
+        para.addEventListener('click',updateName);
+
+        function updateName() {
+            // let 使得变量只在{}内部有效，用var会出现局部变量在全局也可以访问的情况，但是函数内部var和let都是局部
+            let name = prompt('输入一个新的名字');  //prompt('输入框显示的文本 ','默认输入文本')
+            para.textContent = '玩家1'+name;
+        }
+    </script>
+</body>
+</html>

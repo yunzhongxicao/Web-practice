@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>IFE ECMAScript</title>
+</head>
+<body>
+<input id="dec-number" type="number" placeholder="输入一个十进制非负整数">
+<input id="bin-bit" type="number" placeholder="输入转化后二进制数字位数">
+<button id="trans-btn">转化为二进制</button>
+<p id="result">运算结果</p>
+<script>
+    var dec_number = document.getElementById("dec-number");
+    var bin_bit = document.getElementById("bin-bit");
+    document.getElementById("trans-btn").onclick = function () {
+        dec2bin(dec_number.value,bin_bit.value)
+    };
+    function dec2bin(decNumber,binBit)
+    {
+        let result = '';
+        try
+        {
+            if (Number(decNumber)===NaN) throw "不是数字";
+            let num = Number(decNumber);
+            let bin = Number(binBit);
+            if (num<0 || bin<0) throw "小于0";
+            if (num%1 != 0 || bin%1 !=0) throw "不是整数";
+
+            
+            let  yushu;
+            do {
+                yushu = num%2;
+                num = Math.floor(num/2);
+                result = result+yushu;
+            }
+            while (num != 0);
+
+            result = result.split('').reverse().join('');
+            let changdu = result.length;
+            if (result.length>bin)
+            {
+                document.getElementById("result").innerHTML = result;
+                console.log("输入错误");
+            }
+            else
+            {
+                for (let i  =0;i<=(bin-changdu);++i)
+                    result='0'+result;
+                document.getElementById("result").innerHTML = result;
+            }
+        }
+        
+        catch(e) {
+            document.getElementById("result").innerHTML = "输入"+e;
+        }
+        // 在这里实现你的转化方法，注意需要判断输入必须为一个非负整数
+    }
+
+</script>
+</body>
+</html>

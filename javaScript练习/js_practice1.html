@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>js </title>
+
+
+</head>
+<body>
+    <h1>My first html</h1>
+    <p id="demo">啥意思</p>
+
+    <button onclick="window.alert(13)">试一试</button>
+    <button onclick="this.innerHTML = Date()">time is</button>
+
+    <script>
+        var name = "dfc";
+        var person = {
+            firstName: "Bill",
+            lastName : "Gates",
+            id       : 12345,
+            fullName : function() {
+                return this.firstName + " " + this.lastName;
+            }
+        };
+        var str = "The full name of China is the People's Republic of China.";
+
+
+        // 显示对象中的数据
+        document.getElementById("demo").innerHTML = person.fullName();
+        // 使用 write 会删除整个网页加载，只能用于测试
+        // document.write(12);
+        // alert用于警示框显示
+        window.alert(shuru(12,13));
+        // F12控制台显示
+        console.log(person.fullName());
+        console.log(str.indexOf("China"))
+
+        function shuru(p1,p2) {
+            return p1 * p2;
+        }
+
+
+    </script>
+</body>
+</html>
