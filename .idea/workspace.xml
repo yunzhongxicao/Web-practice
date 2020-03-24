@@ -2,19 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1e06e1-00b3-40df-b64d-57e957b1ee2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hover 练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/js_practice1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/js_practice2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/九九乘法表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/二进制转换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/猜数字游戏.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/输入名字练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/海报练习/12_15.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/bgtile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/dinosaur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/dom-example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/js事件练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/js查找练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/shopping_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/show_video_box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/windoe_resize_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/事件样式设置.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/元素的显示和隐藏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/姓名表单练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript练习/邮箱练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/ajax-star.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/p-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/verse1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/verse2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/verse3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/verse4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js对象练习/xhr-basic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/errors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/设计图练习/前端学院设计图-assets/errors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/标签汇总.html" beforeDir="false" afterPath="$PROJECT_DIR$/标签汇总.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,25 +45,18 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/卓工MES/vue-element-admin-master" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.js_practice2.html">
     <configuration name="简历.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML practice/简历.html" useBuiltInWebServerPort="true">
@@ -105,7 +108,13 @@
       <workItem from="1581657887259" duration="6492000" />
       <workItem from="1581761258948" duration="10924000" />
       <workItem from="1581857115840" duration="7163000" />
-      <workItem from="1581912718539" duration="3708000" />
+      <workItem from="1581912718539" duration="21171000" />
+      <workItem from="1581997184370" duration="9064000" />
+      <workItem from="1582368467098" duration="600000" />
+      <workItem from="1582431369924" duration="1406000" />
+      <workItem from="1582513636868" duration="4840000" />
+      <workItem from="1582701302052" duration="628000" />
+      <workItem from="1582706663466" duration="5563000" />
     </task>
     <servers />
   </component>
@@ -127,5 +136,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1061" y="272" key="FileChooserDialogImpl" timestamp="1582710477710">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="1061" y="272" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1582710477710" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1582709070067">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1582709070067" />
   </component>
 </project>
